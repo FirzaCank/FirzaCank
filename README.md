@@ -1,4 +1,4 @@
-Hi there Im Firza 🧑🏻
+Hi there :wave: Im Firza 🧑🏻
 
 I am a industrial engineering bachelor graduate in Bandung Institute of Technology.
 I am passionate in data field such as Data Analyst, Data Engineering, and Data Science.
