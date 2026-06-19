@@ -28,4 +28,4 @@ Tech Stack:
 10. Programming Language: Python, SQL, JavaScript
 
 
-→ More on (firzacank.vercel.app/projects)[firzacank.vercel.app/projects]
+→ More on [firzacank.vercel.app/projects](https://firzacank.vercel.app/projects)
