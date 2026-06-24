@@ -4,14 +4,14 @@ Data Engineer · MLOps · (Learning) AI Engineering
 
 Converting caffeine and corporate deliverables into scalable, green pipelines since day one. ☕
 
-I build data pipelines that actually run in production — end-to-end, from raw API ingestion to BI dashboards that people use every day.
+I build data pipelines that actually run in production end-to-end, from raw API ingestion to BI dashboards that people use every day.
 
-On the side, I take on freelance work across data analysis, dashboards, pitch decks, and AI engineering — whatever turns raw data into something a stakeholder can act on.
+On the side, I take on freelance work across data analysis, dashboards, pitch decks, and AI engineering - whatever turns raw data into something a stakeholder can act on.
 
 What I've shipped:
 1. IDR 300M/month GMV driven by Shopee recommendation systems (NCF + Vertex AI)
 2. 200× average monthly ROI/brand from a K-Means + linear programming voucher optimization pipeline
-3. 96× faster invoice OCR extraction — from 8 hours to 5 minutes using GCP Document AI
+3. 96× faster invoice OCR extraction - from 8 hours to 5 minutes using GCP Document AI
 4. 1B+ daily records processed via PySpark Medallion architecture at XL Axiata (Snowflake + AWS)
 5. L0–L2 ETL pipelines across 4 marketplace APIs → BigQuery for 11+ brands
 
